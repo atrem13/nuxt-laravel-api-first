@@ -1,4 +1,5 @@
 # nuxt-with-laravel-api
+Aplikasi nuxt sederhana yang ngeconsume api dari laravel 
 
 ## Build Setup
 
